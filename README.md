@@ -95,11 +95,12 @@ plt.plot([s[0] for s in est_states],label="Estimate")
 plt.legend()
 
 plt.show()
+
 ```
 
 <H3>Output:</H3>
 
-![image](https://github.com/user-attachments/assets/7c2b8f9c-52bf-4250-966e-2212ce7f028c)
+![Screenshot 2024-09-23 203506](https://github.com/user-attachments/assets/ff01abd3-393e-4626-8454-c7f443e04de5)
 
 
 
