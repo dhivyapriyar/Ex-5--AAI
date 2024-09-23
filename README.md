@@ -99,7 +99,8 @@ plt.show()
 
 <H3>Output:</H3>
 
-![image](https://github.com/user-attachments/assets/fcb32e85-d785-448d-9ebf-aa4d6367e221)
+![image](https://github.com/user-attachments/assets/7c2b8f9c-52bf-4250-966e-2212ce7f028c)
+
 
 
 
